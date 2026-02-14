@@ -131,6 +131,12 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 
 #### 📋 Recent Client Work
 
+- **TSTN** • *Feb - Feb 2026*  
+  Rewards Landing page Development • GSAP 
+
+- **Flowpouch** • *Feb - Feb 2026*  
+  Backned Development • cloudflare worker, Hono js
+
 - **icreate-media.com** • *Jan - Feb 2026*  
   Frontend Development • React, GSAP, Tailwind
 
@@ -183,10 +189,8 @@ Full-featured marketplaces with payment integration, inventory management, and a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raahulmehta&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raahulmehta&theme=radical&hide_border=true" />
-
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raahulmehta&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=350" />
 
 </div>
