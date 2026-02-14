@@ -189,9 +189,9 @@ Full-featured marketplaces with payment integration, inventory management, and a
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raahulmehta&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raahulmehta&show_icons=true&theme=radical&hide_border=true&count_private=true" /> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raahulmehta&theme=radical&hide_border=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raahulmehta&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=350" />
+<!-- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raahulmehta&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=350" /> -->
 
 </div>
 
