@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Rahul Mehta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;React+Native+Developer;Animation+Specialist;DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=111212&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;React+Native+Developer;Animation+Specialist;DevOps+Engineer" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whoisrahulmehta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
