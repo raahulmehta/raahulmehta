@@ -1,29 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=rahul%20mehta&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=full%20stack%20%C2%B7%20animation%20%C2%B7%20devops&descSize=15&descColor=a5b4fc&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:2d0000&height=160&section=header&text=Rahul+Mehta&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full+Stack+Developer+%C2%B7+MERN+%C2%B7+Animation+%C2%B7+Deployment&descSize=14&descColor=ff6b6b&descAlignY=65" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=a5b4fc&center=true&vCenter=true&width=700&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Node.js+%C2%B7+Socket.io+%C2%B7+Real-Time+Systems;Docker+%C2%B7+Kubernetes+%C2%B7+GitHub+Actions+CI%2FCD;Cloudflare+Workers+%C2%B7+Wrangler+%C2%B7+Edge+Computing;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+MERN+Stack;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Socket.io+%C2%B7+Real-Time+Systems+%C2%B7+WebSockets;Docker+%C2%B7+GitHub+Actions+%C2%B7+VPS+%C2%B7+Cloudflare+Workers;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
 
 &nbsp;
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=raahulmehta&label=Profile+views&color=6366f1&style=flat-square" />
-<img src="https://img.shields.io/github/followers/raahulmehta?label=Followers&style=flat-square&color=6366f1" />
-<img src="https://img.shields.io/badge/Location-Punjab,_India-6366f1?style=flat-square" />
-<img src="https://img.shields.io/badge/Build-Passing-22c55e?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Deploy-Live-22c55e?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=flat-square&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=raahulmehta&label=Profile+views&color=e11d48&style=flat-square" />
+<img src="https://img.shields.io/github/followers/raahulmehta?label=Followers&style=flat-square&color=e11d48" />
+<img src="https://img.shields.io/badge/Location-Punjab,_India-e11d48?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to_Work-e11d48?style=flat-square&logo=upwork&logoColor=white" />
 </p>
 
-[![](https://img.shields.io/badge/raahulmehta.online-0f0c29?style=flat-square&logo=firefox&logoColor=a5b4fc)](https://raahulmehta.online)
-[![](https://img.shields.io/badge/LinkedIn-0f0c29?style=flat-square&logo=linkedin&logoColor=a5b4fc)](https://www.linkedin.com/in/rahul-mehta-811003320)
-[![](https://img.shields.io/badge/Upwork-0f0c29?style=flat-square&logo=upwork&logoColor=a5b4fc)](https://www.upwork.com/freelancers/raahulmehta)
-[![](https://img.shields.io/badge/raahulmehta%40icloud.com-0f0c29?style=flat-square&logo=apple&logoColor=a5b4fc)](mailto:raahulmehta@icloud.com)
-[![](https://img.shields.io/badge/@raahulmehta__-0f0c29?style=flat-square&logo=instagram&logoColor=a5b4fc)](https://www.instagram.com/raahulmehta_)
-[![](https://img.shields.io/badge/@whoisrahulmehta-0f0c29?style=flat-square&logo=x&logoColor=a5b4fc)](https://x.com/whoisrahulmehta)
-[![](https://img.shields.io/badge/Snapchat-0f0c29?style=flat-square&logo=snapchat&logoColor=a5b4fc)](https://www.snapchat.com/add/whoisrahulmehta)
-[![](https://img.shields.io/badge/Facebook-0f0c29?style=flat-square&logo=facebook&logoColor=a5b4fc)](https://www.facebook.com/mehta.rahul.rm007)
+[![](https://img.shields.io/badge/raahulmehta.online-0d0d0d?style=flat-square&logo=firefox&logoColor=ff6b6b)](https://raahulmehta.online)
+[![](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff6b6b)](https://www.linkedin.com/in/rahul-mehta-811003320)
+[![](https://img.shields.io/badge/Upwork-0d0d0d?style=flat-square&logo=upwork&logoColor=ff6b6b)](https://www.upwork.com/freelancers/raahulmehta)
+[![](https://img.shields.io/badge/raahulmehta%40icloud.com-0d0d0d?style=flat-square&logo=apple&logoColor=ff6b6b)](mailto:raahulmehta@icloud.com)
+[![](https://img.shields.io/badge/@raahulmehta__-0d0d0d?style=flat-square&logo=instagram&logoColor=ff6b6b)](https://www.instagram.com/raahulmehta_)
+[![](https://img.shields.io/badge/@whoisrahulmehta-0d0d0d?style=flat-square&logo=x&logoColor=ff6b6b)](https://x.com/whoisrahulmehta)
+[![](https://img.shields.io/badge/Snapchat-0d0d0d?style=flat-square&logo=snapchat&logoColor=ff6b6b)](https://www.snapchat.com/add/whoisrahulmehta)
+[![](https://img.shields.io/badge/Facebook-0d0d0d?style=flat-square&logo=facebook&logoColor=ff6b6b)](https://www.facebook.com/mehta.rahul.rm007)
 
 </div>
 
@@ -31,179 +28,27 @@
 
 ## 💫 About Me
 
-I'm a **Full-Stack Developer** who doesn't just build applications — I craft **immersive digital experiences** that blend stunning animations with robust, production-grade infrastructure.
+I'm a **Full-Stack Developer** who builds complete digital products — from pixel-perfect animated frontends to scalable backends and smooth production deployments.
 
-**My Journey:** Started as a React developer, evolved into a complete full-stack engineer handling **frontend magic, backend architecture, deployment pipelines, and cross-platform mobile development**.
+**My stack is MERN at the core.** React, Next.js, Node.js, MongoDB — with TypeScript, real-time layers, animations, and mobile when the project calls for it.
 
-#### What I Do:
-- 🎨 Create **animated, interactive websites** using **GSAP**, **Three.js**, and **Framer Motion**
-- 📱 Build **cross-platform mobile applications** with **React Native**
-- ⚡ Develop **real-time systems** using **Socket.IO** — chat, live analytics, notifications
-- 🏗️ Architect **scalable backends** with **Node.js**, **Express**, **NestJS**, and **MongoDB**
-- 🎯 Design **pixel-perfect UIs** with **Tailwind CSS**, **Material-UI**, and **SCSS**
-- 🚀 Handle complete **production-grade deployment pipelines** — Docker, Kubernetes, CI/CD, Nginx, zero-downtime systems
-- 🌐 Deploy to **AWS, Cloudflare Workers, VPS, Vercel** with SSL and domain management
-- 📊 Build **custom CMS/CRM solutions** and admin panels
-- 💳 Integrate **payment gateways** — Stripe, PayPal, Razorpay
-- 🤖 Build **WhatsApp Business bots** using Meta Cloud API with webhook + AI pipelines
+#### What I Build:
+- 🎨 **Animated, interactive frontends** — GSAP, Three.js, Framer Motion, ScrollTrigger
+- 🏗️ **Full-stack MERN apps** — auth, APIs, databases, file uploads, admin panels
+- ⚡ **Real-time features** — Socket.IO chat, live dashboards, push notifications
+- 📱 **Cross-platform mobile apps** — React Native (iOS + Android)
+- 💳 **Payment integrations** — Stripe, PayPal, Razorpay
+- 🤖 **WhatsApp Business bots** — Meta Cloud API, webhooks, AI pipelines
+- 🚀 **Production deployments** — Docker, VPS, Vercel, Cloudflare Workers, CI/CD
 
 #### Currently:
-- 🔭 Working on **enterprise marketplace applications** and **real-time analytics systems**
-- 🌱 Deep diving into **Kubernetes**, **Caddy**, and **advanced CI/CD patterns**
+- 🔭 Working on **enterprise marketplace apps** and **real-time analytics platforms**
+- 🌱 Exploring **Kubernetes** and **edge-first architectures**
 - 🎯 Speciality: animations that make people say *"wait, how did they do that?"*
 - ⚡ Portfolio: [raahulmehta.online](https://raahulmehta.online)
 - 📫 **raahulmehta@icloud.com**
 
-> *"From concept to deployment — I build digital experiences that ship, scale, and feel alive."*
-
----
-
-## ⚡ Advanced Capabilities
-
-- 🧠 **Real-time systems at scale** (WebSockets, event-driven flows)
-- 🐳 **Container orchestration-ready architecture**
-- 🔄 **Zero-downtime production deployments**
-- 📦 **Monorepo & multi-service CI/CD pipelines**
-- 🌐 **Edge + server hybrid systems**
-- ⚡ **High-performance animation pipelines (GSAP + WebGL)**
-
-> I focus on building systems that are **fast, reliable, and production-ready from day one.**
-
----
-
-## 🏗️ Featured Architecture Case Study
-
-### Vetrinamia — Real-Time Analytics & Shopify Integration Platform
-
-> A production system handling live WebSocket streams, real-time admin dashboards, and load-balanced VPS infrastructure.
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        PRODUCTION SYSTEM                            │
-│                                                                     │
-│   Browser / Admin Dashboard                                         │
-│        │  WebSocket (Socket.io)                                     │
-│        ▼                                                            │
-│   ┌──────────┐     ┌──────────────┐     ┌──────────────────────┐  │
-│   │  Nginx   │────▶│  Node.js     │────▶│  MongoDB             │  │
-│   │  Reverse │     │  API Server  │     │  (Analytics Store)   │  │
-│   │  Proxy   │     │  (Dockerized)│     └──────────────────────┘  │
-│   │  + SSL   │     │              │     ┌──────────────────────┐  │
-│   └──────────┘     │  Socket.io   │────▶│  Redis               │  │
-│        │           │  WS Handler  │     │  (Session / Cache)   │  │
-│        │           └──────────────┘     └──────────────────────┘  │
-│        │                  │                                         │
-│        │           ┌──────────────┐                                 │
-│        │           │  Shopify     │                                 │
-│        │           │  Marketplace │                                 │
-│        │           │  Integration │                                 │
-│        │           └──────────────┘                                 │
-│        │                                                            │
-│   GitHub Actions CI/CD                                              │
-│   push → test → build image → SSH deploy → health check → live     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-**Key Engineering Decisions:**
-- 🔄 **Blue-Green deployments** via Nginx upstream switching — zero user impact during releases
-- 📦 **Immutable Docker images** — tagged by git SHA, pushed to registry, pulled on VPS
-- ⚡ **WebSocket streams** — live analytics events pushed server → client at sub-100ms latency
-- 🛡️ **Health-check driven releases** — new container must pass `/health` before traffic switches
-
----
-
-## 🏗️ Production Architecture
-
-I don't just deploy apps — I design **resilient, scalable production systems**.
-
-### ⚡ CI/CD Deployment Flow
-
-```mermaid
-graph TD
-    A[🔀 Push to main] --> B[🧪 CI: Tests + Lint]
-    B --> C{Tests Pass?}
-    C -- ❌ Fail --> Z[🚨 Notify & Block]
-    C -- ✅ Pass --> D[🐳 Build Docker Image]
-    D --> E[📦 Push to Registry — tagged by SHA]
-    E --> F[🔐 SSH into VPS]
-    F --> G[⬇️ Pull New Image]
-    G --> H[🚀 Spin Up New Container — port 3001]
-    H --> I[❤️ Health Check /health]
-    I -- ✅ Healthy --> J[🔀 Switch Nginx Upstream → 3001]
-    J --> K[🛑 Stop Old Container — port 3000]
-    K --> L[✅ Deploy Complete — Zero Downtime]
-    I -- ❌ Unhealthy --> M[🔁 Instant Rollback — keep port 3000 live]
-```
-
-### 🌐 System Architecture — Multi-Service Backend
-
-```mermaid
-graph LR
-    Client["🌐 Client<br/>(Browser / Mobile)"]
-    CF["☁️ Cloudflare<br/>DNS + DDoS Protection"]
-    Nginx["🔀 Nginx<br/>Reverse Proxy + SSL"]
-    API["⚙️ Node.js API<br/>(Dockerized)"]
-    WS["⚡ Socket.io<br/>Real-Time Layer"]
-    Worker["🌍 Cloudflare Worker<br/>Edge Functions"]
-    DB["🗄️ MongoDB"]
-    Cache["⚡ Redis Cache"]
-    S3["☁️ S3 / Storage"]
-
-    Client --> CF
-    CF --> Nginx
-    Nginx --> API
-    Nginx --> WS
-    Client --> Worker
-    API --> DB
-    API --> Cache
-    API --> S3
-```
-
-### 🔁 Blue-Green Deployment Strategy
-
-```
-Production VPS
-├── Nginx (port 80/443)
-│     └── upstream: points to ACTIVE container
-│
-├── 🟢 Container GREEN  (port 3000) ← ACTIVE / receives traffic
-└── 🔵 Container BLUE   (port 3001) ← STANDBY / warming up
-
-Deploy steps:
-  1. Start BLUE on 3001 with new image
-  2. Health check BLUE at /health
-  3. Nginx upstream → 3001  (atomic swap)
-  4. Stop GREEN
-  5. GREEN becomes next STANDBY
-```
-
----
-
-## 🧠 CI/CD Philosophy
-
-My approach to CI/CD is simple:
-
-- ✅ Every commit should be **deployable**
-- ✅ Deployments should be **automated, repeatable, and reversible**
-- ✅ Infrastructure should be **version-controlled**
-- ✅ Systems should **fail gracefully, not catastrophically**
-
-### 🔁 Pipeline Principles
-
-- Test before build
-- Build once, deploy everywhere
-- Immutable Docker images
-- Health-check driven releases
-- Instant rollback capability
-
-### ⚙️ Tools I Use
-
-- GitHub Actions for CI/CD automation
-- Docker for consistent environments
-- Nginx for traffic control and SSL termination
-- VPS / Cloud for flexible, cost-effective deployments
-
-> *"Good developers write code. Great developers ship reliably."*
+> *"From concept to deployment — I build things that ship, scale, and feel alive."*
 
 ---
 
@@ -248,7 +93,7 @@ My approach to CI/CD is simple:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🚀 DevOps, Cloud & Production Systems
+#### 🚀 DevOps, Cloud & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -264,20 +109,7 @@ My approach to CI/CD is simple:
 ![Ubuntu VPS](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![SSL](https://img.shields.io/badge/SSL%2FTLS-339933?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-- 🐳 **Docker-first Architecture** — containerized apps with multi-stage builds
-- 🔄 **CI/CD Pipelines** via GitHub Actions — test → build → push → deploy
-- ⚡ **Zero Downtime Deployments** — Blue-Green strategy with traffic switching
-- 🌐 **Nginx Reverse Proxy** — load balancing, SSL termination, routing
-- 🔐 **SSL Automation** — Let's Encrypt with auto-renewal
-- ☸️ **Kubernetes (Learning & Scaling)** — orchestration-ready architecture
-- 🧠 **Deployment Strategy Design** — rollback systems, health checks, versioning
-- 🌍 **Multi-Environment Deployments** — staging, production, preview
-- ⚡ **Edge Deployments** — Cloudflare Workers, low-latency APIs
-- 📊 **Monitoring & Logging** — PM2, CloudWatch, runtime observability
-
-> I build systems that **don't just deploy — they recover, scale, and evolve.**
-
-#### 🧰 Tools, Integrations & Platforms
+#### 🧰 Tools & Integrations
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -285,7 +117,6 @@ My approach to CI/CD is simple:
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -298,44 +129,52 @@ My approach to CI/CD is simple:
 
 ## 💼 What I Offer
 
-#### Full-Stack Development Services:
-- ✅ **Full Stack Web Development** — MERN / MEAN Stack
-- ✅ **Next.js & React Applications** with server-side rendering
-- ✅ **Real-time Applications** — Socket.IO, WebRTC, Chat Systems
-- ✅ **E-commerce & Marketplace Development** with payment integration
-- ✅ **Payment Gateway Integration** — Stripe, PayPal, Razorpay
-- ✅ **API Development & Third-party Integration** — REST, GraphQL
-- ✅ **Database Design & Optimization** — SQL & NoSQL
-- ✅ **Mobile App Development** — React Native (iOS + Android)
-- ✅ **Cloud Deployment & DevOps** — AWS, VPS, Docker, Kubernetes
-- ✅ **Domain & SSL Management** with complete hosting solutions
-- ✅ **CI/CD Pipeline Setup** — GitHub Actions automated deployments
-- ✅ **Performance Optimization** and scalability consulting
-- ✅ **Custom CRM & ERP Solutions** for business automation
-- ✅ **WhatsApp Business Bots** — Meta Cloud API, webhook handlers, AI response pipelines
+#### Full-Stack Development:
+- ✅ **MERN / Next.js Applications** — end-to-end, from DB schema to deployed UI
+- ✅ **Real-time Features** — Socket.IO chat, live dashboards, WebSocket streams
+- ✅ **Animated Frontends** — GSAP, Three.js, Framer Motion
+- ✅ **Mobile Apps** — React Native (iOS + Android)
+- ✅ **Payment Integration** — Stripe, PayPal, Razorpay with webhooks
+- ✅ **API Design & Integration** — REST, GraphQL, third-party services
+- ✅ **Custom CRM / Admin Panels** — built for your team, not off-the-shelf
+- ✅ **WhatsApp Business Bots** — Meta Cloud API, webhook handlers, AI pipelines
 
-#### DevOps & Deployment Expertise:
-- 🚀 **AWS Cloud Services** — EC2, S3, RDS, Lambda, CloudFront, Amplify
-- 🐳 **Docker Containerization** with multi-stage builds
-- ☸️ **Kubernetes** cluster setup, workload and service management
-- 🔄 **CI/CD Pipelines** via GitHub Actions — build, test, deploy
-- 🌐 **VPS Management** — Ubuntu, Linux server administration
-- 📦 **Vercel & Netlify** deployments with custom domains
-- 🔧 **Nginx & Caddy** reverse proxy, load balancing, SSL termination
-- 📊 **Monitoring & Logging** — PM2, CloudWatch
-- 🔐 **SSL/TLS Certificate Management** — Let's Encrypt, Cloudflare
-
-#### Deployment Solutions I Provide:
-- 🌐 **Complete Domain Management** — Registration, DNS configuration, SSL
-- 🚀 **Production-Ready Deployments** — Staging to live environments
-- 📊 **Performance Monitoring** — Real-time monitoring and alerting
-- 🔄 **Automated CI/CD Pipelines** — GitHub Actions, zero-downtime deploys
+#### Deployment & DevOps:
+- 🚀 **VPS & Cloud** — AWS, Ubuntu, Nginx, SSL, domain config
+- 🐳 **Docker** — containerized apps, consistent environments
+- 🔄 **CI/CD** — GitHub Actions, automated test → build → deploy pipelines
+- ☁️ **Edge & Serverless** — Cloudflare Workers, Vercel, Netlify
+- 📊 **Monitoring** — PM2, CloudWatch, uptime checks
 
 ---
 
-## 🎯 Professional Experience & Projects
+## 🧠 CI/CD Philosophy
 
-## 📋 Client Work
+Every project I ship has automated deployments. No manual uploads, no SSH-and-pray — just pipelines that run on every push so anyone on the team can ship confidently.
+
+- ✅ **Automated** — commit → test → build → live, no manual steps
+- ✅ **Repeatable** — same result every time, on any machine
+- ✅ **Reversible** — bad deploy? rolled back without drama
+- ✅ **Observable** — I know when something breaks before clients do
+
+> *"Good developers write code. Great developers ship reliably."*
+
+---
+
+## ⚡ Advanced Capabilities
+
+- 🧠 **Real-time systems** — WebSockets, event-driven flows, presence indicators
+- 🎬 **High-performance animation** — GSAP timelines, WebGL, scroll-driven storytelling
+- 🐳 **Containerized deployments** — Docker apps running clean in any environment
+- 🌐 **Edge + server hybrid** — Cloudflare Workers + Node.js for low-latency APIs
+- 🔐 **Auth systems** — JWT, OAuth, Apple/Google sign-in, role-based access
+- 📦 **Multi-service pipelines** — staged environments, preview deploys
+
+> I build systems that are **fast, reliable, and production-ready from day one.**
+
+---
+
+## 🎯 Client Work
 
 > 15 contracts · newest first
 
@@ -344,7 +183,7 @@ My approach to CI/CD is simple:
 | 01 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
 | 02 | **TSTN** | Rewards & loyalty system, landing page, dashboard UI with animations | `GSAP` | Feb 2026 |
 | 03 | [**Flowpouch**](https://flowpouch.com) | Cloudflare Worker integrating ProsperStack with FlowPouch subscription workflow — improving retention pipelines | `Cloudflare Workers` `Hono` `Wrangler` | Jan–Feb 2026 |
-| 04 | **WhatsApp AI Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via manual AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
+| 04 | **WhatsApp AI Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
 | 05 | [**iCreate Media**](https://icmnext.vercel.app) | Agency website — GSAP scroll-triggered animations, Three.js 3D scenes, SEO-optimised, fully responsive | `Next.js` `GSAP` `Three.js` `Tailwind` | Dec 2025–Jan 2026 |
 | 06 | [**LYM Digital**](https://lymdigital.com) | High-performance agency site — GSAP scroll animations, Vercel serverless contact forms, Next.js SEO | `Next.js` `GSAP` `Framer Motion` | Dec 2025–Jan 2026 |
 | 07 | **Fertility Minds** `📱` | Cross-platform app — Apple/Google auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, custom CMS/CRM + React admin panel | `React Native` `Node.js` `MongoDB` `Socket.io` `Stripe` | Oct 2025–Feb 2026 |
@@ -386,9 +225,9 @@ Socket.io chat, live analytics, push notifications, WebSocket streams, presence 
 </td>
 <td width="25%" align="center">
 
-**🐳 Container DevOps**
+**🚀 Ship to Production**
 
-Docker + Kubernetes, GitHub Actions CI/CD, Nginx + Caddy, zero-downtime production deploys
+Docker, GitHub Actions CI/CD, Nginx, VPS — apps that go live cleanly and stay live
 
 </td>
 </tr>
@@ -400,7 +239,7 @@ Docker + Kubernetes, GitHub Actions CI/CD, Nginx + Caddy, zero-downtime producti
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raahulmehta.online-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://raahulmehta.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raahulmehta.online-e11d48?style=for-the-badge&logo=firefox&logoColor=white)](https://raahulmehta.online)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/raahulmehta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-mehta-811003320)
 [![Email](https://img.shields.io/badge/raahulmehta%40icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:raahulmehta@icloud.com)
@@ -423,4 +262,4 @@ Docker + Kubernetes, GitHub Actions CI/CD, Nginx + Caddy, zero-downtime producti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:0d0d0d&height=100&section=footer" />
