@@ -130,49 +130,119 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 
 ## 🎯 Professional Experience & Projects
 
-#### 📋 Recent Client Work
+# 📋 Recent Client Work
 
-- **[Bornvia](https://www.bornvia.com)** • *02/2026- 02/2026*  
-   GSAP Scroll animation integration using custom components functionality on Framer website builder.
+<table>
+<thead>
+<tr>
+<th align="center">Period</th>
+<th align="left">Client</th>
+<th align="left">Scope</th>
+<th align="left">Stack</th>
+</tr>
+</thead>
+<tbody>
 
-- **TSTN** • *02/2026 - 02/2026*  
-  Rewards and loyalty points, Landing page Development and dashboard design and animations • GSAP 
+<tr>
+<td align="center"><code>02/2026</code></td>
+<td><a href="https://www.bornvia.com"><b>Bornvia</b></a></td>
+<td>GSAP scroll animation integration with custom components</td>
+<td><img src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /></td>
+</tr>
 
-- **[Flowpouch](https://flowpouch.com)** • *02/2026 - 02/2026*  
-  Backned Development • cloudflare worker, Hono js
+<tr>
+<td align="center"><code>02/2026</code></td>
+<td><b>TSTN</b></td>
+<td>Rewards & loyalty system, landing page, dashboard design & animations</td>
+<td><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /></td>
+</tr>
 
-- **[iCreate Media](https://icmnext.vercel.app)** • *01/2026 - 02/2026*  
-  Frontend Development • React, GSAP, Tailwind
+<tr>
+<td align="center"><code>02/2026</code></td>
+<td><a href="https://flowpouch.com"><b>Flowpouch</b></a></td>
+<td>Backend development</td>
+<td><img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square" /></td>
+</tr>
 
-  - **[LYM Digital](https://lymdigital.com)** • *12/2025 - 01/2026*  
-  Frontend Development • React, Framer Motion
+<tr>
+<td align="center"><code>01 – 02/2026</code></td>
+<td><a href="https://icmnext.vercel.app"><b>iCreate Media</b></a></td>
+<td>Frontend development</td>
+<td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></td>
+</tr>
 
-- **Fertility Minds (Mobile App)** • *10/2025 - 02/2026*  
-  Full Stack + Mobile Development • React Native, Node.js, MongoDB, Custom CMS
+<tr>
+<td align="center"><code>12/2025 – 01/2026</code></td>
+<td><a href="https://lymdigital.com"><b>LYM Digital</b></a></td>
+<td>Frontend development</td>
+<td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer" /></td>
+</tr>
 
-- **Trade Assurance** • *07/2025 - 02/2026*  
-  Full Stack + CMS Development • Next.js, Express, MongoDB
+<tr>
+<td align="center"><code>10/2025 – 02/2026</code></td>
+<td><b>Fertility Minds</b> <sub>📱 Mobile App</sub></td>
+<td>Full stack + mobile development, custom CMS</td>
+<td><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
+</tr>
 
-- **[Al Khaleej Takaful Insurance (AKTI)](https://www.alkhaleej.com)** • *08/2025 - 12/2025*  
-  Frontend Development • Next.js, Tailwind, GSAP
+<tr>
+<td align="center"><code>08 – 12/2025</code></td>
+<td><a href="https://www.alkhaleej.com"><b>Al Khaleej Takaful (AKTI)</b></a></td>
+<td>Frontend development</td>
+<td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /></td>
+</tr>
 
-- **[Vetrinamia](https://vetrinamia.com)** • *07/2025 - 08/2025*  
-  Full Stack + CMS Development • MERN Stack, Custom CMS
+<tr>
+<td align="center"><code>07 – 02/2026</code></td>
+<td><b>Trade Assurance</b></td>
+<td>Full stack + CMS development</td>
+<td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
+</tr>
 
-- **[Trans WeGo](https://www.transwego.ch)** • *11/2024 - 06/2025*  
-  Full Stack + CMS Development • Next.js, Node.js, MongoDB
-  
-- **Supertiny Marketing Agency** • *09/2024 - 09/2024*  
-  Frontend Development • React, GSAP
+<tr>
+<td align="center"><code>07 – 08/2025</code></td>
+<td><a href="https://vetrinamia.com"><b>Vetrinamia</b></a></td>
+<td>Full stack + CMS development</td>
+<td><img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <sub>Custom CMS</sub></td>
+</tr>
 
-  - **[Connect You](https://connectyou.global)** • *08/2024 - 09/2025*  
-  Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
+<tr>
+<td align="center"><code>11/2024 – 06/2025</code></td>
+<td><a href="https://www.transwego.ch"><b>Trans WeGo</b></a></td>
+<td>Full stack + CMS development</td>
+<td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
+</tr>
 
-- **Yacht Buddy** • *09/2024 - 09/2024*  
-  Frontend Development • React, Advanced Animations
+<tr>
+<td align="center"><code>08/2024 – 09/2025</code></td>
+<td><a href="https://connectyou.global"><b>Connect You</b></a></td>
+<td>Full stack + CMS, real-time features</td>
+<td><img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" /></td>
+</tr>
 
-- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *08/2024 - 08/2024*  
-  Frontend Development • React, Tailwind
+<tr>
+<td align="center"><code>09/2024</code></td>
+<td><b>Yacht Buddy</b></td>
+<td>Frontend development, advanced animations</td>
+<td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></td>
+</tr>
+
+<tr>
+<td align="center"><code>09/2024</code></td>
+<td><b>Supertiny Marketing Agency</b></td>
+<td>Frontend development</td>
+<td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /></td>
+</tr>
+
+<tr>
+<td align="center"><code>08/2024</code></td>
+<td><a href="https://naveesinfotech.com/"><b>NaveesInfoTeech</b></a></td>
+<td>Frontend development</td>
+<td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></td>
+</tr>
+
+</tbody>
+</table>
 
 #### 🌟 Specialized Projects
 
