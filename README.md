@@ -131,12 +131,8 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 ## 🎯 Professional Experience & Projects
 
 ## 📋 Client Work
-
-> Freelance & contract projects — newest first
-
 <br/>
-
-| # | Client | What I built | Stack | Period |
+| # | Client | Summary | Stack | Period |
 |---|--------|-------------|-------|--------|
 | 01 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
 | 02 | **TSTN** | Rewards & loyalty points system, landing page development, dashboard UI with animations | `GSAP` | Feb 2026 |
