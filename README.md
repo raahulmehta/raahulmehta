@@ -131,7 +131,9 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 ## 🎯 Professional Experience & Projects
 
 ## 📋 Client Work
+
 <br/>
+
 | # | Client | Summary | Stack | Period |
 |---|--------|-------------|-------|--------|
 | 01 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
