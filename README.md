@@ -132,46 +132,46 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 
 #### 📋 Recent Client Work
 
-- **[Bornvia](https://www.bornvia.com)** • *Mar - Mar 2026*  
+- **[Bornvia](https://www.bornvia.com)** • *02/2026- 02/2026*  
    GSAP Scroll animation integration using custom components functionality on Framer website builder.
 
-- **TSTN** • *Feb - Feb 2026*  
-  Rewards Landing page Development • GSAP 
+- **TSTN** • *02/2026 - 02/2026*  
+  Rewards and loyalty points, Landing page Development and dashboard design and animations • GSAP 
 
-- **[Flowpouch](https://flowpouch.com)** • *Feb - Feb 2026*  
+- **[Flowpouch](https://flowpouch.com)** • *02/2026 - 02/2026*  
   Backned Development • cloudflare worker, Hono js
 
-- **[iCreate Media](https://icmnext.vercel.app)** • *Jan - Feb 2026*  
+- **[iCreate Media](https://icmnext.vercel.app)** • *01/2026 - 02/2026*  
   Frontend Development • React, GSAP, Tailwind
 
-  - **[LYM Digital](https://lymdigital.com)** • *Dec 2025 - Jan 2026*  
+  - **[LYM Digital](https://lymdigital.com)** • *12/2025 - 01/2026*  
   Frontend Development • React, Framer Motion
 
-- **Fertility Minds (Mobile App)** • *Oct 2025 - Jan 2026*  
+- **Fertility Minds (Mobile App)** • *10/2025 - 02/2026*  
   Full Stack + Mobile Development • React Native, Node.js, MongoDB, Custom CMS
 
-- **Trade Assurance** • *Nov 2025 - Feb 2026*  
+- **Trade Assurance** • *07/2025 - 02/2026*  
   Full Stack + CMS Development • Next.js, Express, MongoDB
 
-- **[Al Khaleej Takaful Insurance (AKTI)](https://www.alkhaleej.com)** • *Sep 2025 - Jan 2026*  
+- **[Al Khaleej Takaful Insurance (AKTI)](https://www.alkhaleej.com)** • *08/2025 - 12/2025*  
   Frontend Development • Next.js, Tailwind, GSAP
 
-- **[Vetrinamia](https://vetrinamia.com)** • *Aug 2025 - Oct 2025*  
+- **[Vetrinamia](https://vetrinamia.com)** • *07/2025 - 08/2025*  
   Full Stack + CMS Development • MERN Stack, Custom CMS
 
-- **[Trans WeGo](https://www.transwego.ch)** • *Nov 2024 - Jun 2025*  
+- **[Trans WeGo](https://www.transwego.ch)** • *11/2024 - 06/2025*  
   Full Stack + CMS Development • Next.js, Node.js, MongoDB
   
-- **Supertiny Marketing Agency** • *Oct 2024 - Dec 2024*  
+- **Supertiny Marketing Agency** • *09/2024 - 09/2024*  
   Frontend Development • React, GSAP
 
-  - **[Connect You](https://connectyou.global)** • *Sep 2024 - Jun 2025*  
+  - **[Connect You](https://connectyou.global)** • *08/2024 - 09/2025*  
   Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
 
-- **Yacht Buddy** • *Aug 2024 - Sep 2024*  
+- **Yacht Buddy** • *09/2024 - 09/2024*  
   Frontend Development • React, Advanced Animations
 
-- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *Jul 2024 - Sep 2024*  
+- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *08/2024 - 08/2024*  
   Frontend Development • React, Tailwind
 
 #### 🌟 Specialized Projects
