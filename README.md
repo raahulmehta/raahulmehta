@@ -144,34 +144,34 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 - **[iCreate Media](https://icmnext.vercel.app)** • *Jan - Feb 2026*  
   Frontend Development • React, GSAP, Tailwind
 
+  - **[LYM Digital](https://lymdigital.com)** • *Dec 2025 - Jan 2026*  
+  Frontend Development • React, Framer Motion
+
 - **Fertility Minds (Mobile App)** • *Oct 2025 - Jan 2026*  
   Full Stack + Mobile Development • React Native, Node.js, MongoDB, Custom CMS
 
 - **Trade Assurance** • *Nov 2025 - Feb 2026*  
   Full Stack + CMS Development • Next.js, Express, MongoDB
 
-- **[LYM Digital](https://lymdigital.com)** • *Dec 2025 - Jan 2026*  
-  Frontend Development • React, Framer Motion
-
 - **[Al Khaleej Takaful Insurance (AKTI)](https://www.alkhaleej.com)** • *Sep 2025 - Jan 2026*  
   Frontend Development • Next.js, Tailwind, GSAP
 
-- **[Vetrinamia](https://vetrinamia.com)** • *Aug - Oct 2025*  
+- **[Vetrinamia](https://vetrinamia.com)** • *Aug 2025 - Oct 2025*  
   Full Stack + CMS Development • MERN Stack, Custom CMS
 
-- **Supertiny Marketing Agency** • *Oct - Nov 2025*  
+- **[Trans WeGo](https://www.transwego.ch)** • *Nov 2024 - Jun 2025*  
+  Full Stack + CMS Development • Next.js, Node.js, MongoDB
+  
+- **Supertiny Marketing Agency** • *Oct 2024 - Dec 2024*  
   Frontend Development • React, GSAP
 
-- **[Connect You](https://connectyou.global)** • *Jun 2025 - May 2026*  
+  - **[Connect You](https://connectyou.global)** • *Sep 2024 - Jun 2025*  
   Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
 
-- **[Trans WeGo](https://www.transwego.ch)** • *Nov 2025 - Jun 2025*  
-  Full Stack + CMS Development • Next.js, Node.js, MongoDB
-
-- **Yacht Buddy** • *Aug - Sep 2025*  
+- **Yacht Buddy** • *Aug 2024 - Sep 2024*  
   Frontend Development • React, Advanced Animations
 
-- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *Jul - Aug 2025*  
+- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *Jul 2024 - Sep 2024*  
   Frontend Development • React, Tailwind
 
 #### 🌟 Specialized Projects
