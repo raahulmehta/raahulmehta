@@ -165,13 +165,13 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 - **Connect you** • *Jun 2025 - May 2026*  
   Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
 
-- **Trans WeGo** • *Nov 2025 - Jun 2025*  
+- **[Trans WeGo](https://transwego.ch/)** • *Nov 2025 - Jun 2025*  
   Full Stack + CMS Development • Next.js, Node.js, MongoDB
 
 - **Yacht Buddy** • *Aug - Sep 2025*  
   Frontend Development • React, Advanced Animations
 
-- **[![NaveesInfoTeech]](https://naveesinfotech.info)** • *Jul - Aug 2025*  
+- **[NaveesInfoTeech](https://naveesinfotech.com/)** • *Jul - Aug 2025*  
   Frontend Development • React, Tailwind
 
 #### 🌟 Specialized Projects
