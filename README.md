@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+MERN+Stack;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Socket.io+%C2%B7+Real-Time+Systems+%C2%B7+WebSockets;Docker+%C2%B7+GitHub+Actions+%C2%B7+VPS+%C2%B7+Cloudflare+Workers;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+MERN+Stack;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Socket.io+%C2%B7+RealAI biotTime+Systems+%C2%B7+WebSockets;Docker+%C2%B7+GitHub+Actions+%C2%B7+VPS+%C2%B7+Cloudflare+Workers;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
 
 &nbsp;
 
@@ -38,7 +38,6 @@ I'm a **Full-Stack Developer** who builds complete digital products — from pix
 - ⚡ **Real-time features** — Socket.IO chat, live dashboards, push notifications
 - 📱 **Cross-platform mobile apps** — React Native (iOS + Android)
 - 💳 **Payment integrations** — Stripe, PayPal, Razorpay
-- 🤖 **WhatsApp Business bots** — Meta Cloud API, webhooks, AI pipelines
 - 🚀 **Production deployments** — Docker, VPS, Vercel, Cloudflare Workers, CI/CD
 
 #### Currently:
@@ -183,7 +182,7 @@ Every project I ship has automated deployments. No manual uploads, no SSH-and-pr
 | 01 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
 | 02 | **TSTN** | Rewards & loyalty system, landing page, dashboard UI with animations | `GSAP` | Feb 2026 |
 | 03 | [**Flowpouch**](https://flowpouch.com) | Cloudflare Worker integrating ProsperStack with FlowPouch subscription workflow — improving retention pipelines | `Cloudflare Workers` `Hono` `Wrangler` | Jan–Feb 2026 |
-| 04 | **WhatsApp AI Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
+| 04 | **WhatsApp Chat Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
 | 05 | [**iCreate Media**](https://icmnext.vercel.app) | Agency website — GSAP scroll-triggered animations, Three.js 3D scenes, SEO-optimised, fully responsive | `Next.js` `GSAP` `Three.js` `Tailwind` | Dec 2025–Jan 2026 |
 | 06 | [**LYM Digital**](https://lymdigital.com) | High-performance agency site — GSAP scroll animations, Vercel serverless contact forms, Next.js SEO | `Next.js` `GSAP` `Framer Motion` | Dec 2025–Jan 2026 |
 | 07 | **Fertility Minds** `📱` | Cross-platform app — Apple/Google auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, custom CMS/CRM + React admin panel | `React Native` `Node.js` `MongoDB` `Socket.io` `Stripe` | Oct 2025–Feb 2026 |
