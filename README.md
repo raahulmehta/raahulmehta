@@ -10,6 +10,10 @@
 <img src="https://komarev.com/ghpvc/?username=raahulmehta&label=Profile+views&color=6366f1&style=flat-square" />
 <img src="https://img.shields.io/github/followers/raahulmehta?label=Followers&style=flat-square&color=6366f1" />
 <img src="https://img.shields.io/badge/Location-Punjab,_India-6366f1?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Passing-22c55e?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Deploy-Live-22c55e?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=flat-square&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 [![](https://img.shields.io/badge/raahulmehta.online-0f0c29?style=flat-square&logo=firefox&logoColor=a5b4fc)](https://raahulmehta.online)
@@ -27,7 +31,7 @@
 
 ## 💫 About Me
 
-I'm a **Full-Stack Developer** who doesn't just build applications — I craft **immersive digital experiences** that blend stunning animations with robust functionality.
+I'm a **Full-Stack Developer** who doesn't just build applications — I craft **immersive digital experiences** that blend stunning animations with robust, production-grade infrastructure.
 
 **My Journey:** Started as a React developer, evolved into a complete full-stack engineer handling **frontend magic, backend architecture, deployment pipelines, and cross-platform mobile development**.
 
@@ -37,7 +41,7 @@ I'm a **Full-Stack Developer** who doesn't just build applications — I craft *
 - ⚡ Develop **real-time systems** using **Socket.IO** — chat, live analytics, notifications
 - 🏗️ Architect **scalable backends** with **Node.js**, **Express**, **NestJS**, and **MongoDB**
 - 🎯 Design **pixel-perfect UIs** with **Tailwind CSS**, **Material-UI**, and **SCSS**
-- 🚀 Handle complete **deployment pipelines** — Docker, Kubernetes, GitHub Actions, Nginx, Caddy
+- 🚀 Handle complete **production-grade deployment pipelines** — Docker, Kubernetes, CI/CD, Nginx, zero-downtime systems
 - 🌐 Deploy to **AWS, Cloudflare Workers, VPS, Vercel** with SSL and domain management
 - 📊 Build **custom CMS/CRM solutions** and admin panels
 - 💳 Integrate **payment gateways** — Stripe, PayPal, Razorpay
@@ -51,6 +55,155 @@ I'm a **Full-Stack Developer** who doesn't just build applications — I craft *
 - 📫 **raahulmehta@icloud.com**
 
 > *"From concept to deployment — I build digital experiences that ship, scale, and feel alive."*
+
+---
+
+## ⚡ Advanced Capabilities
+
+- 🧠 **Real-time systems at scale** (WebSockets, event-driven flows)
+- 🐳 **Container orchestration-ready architecture**
+- 🔄 **Zero-downtime production deployments**
+- 📦 **Monorepo & multi-service CI/CD pipelines**
+- 🌐 **Edge + server hybrid systems**
+- ⚡ **High-performance animation pipelines (GSAP + WebGL)**
+
+> I focus on building systems that are **fast, reliable, and production-ready from day one.**
+
+---
+
+## 🏗️ Featured Architecture Case Study
+
+### Vetrinamia — Real-Time Analytics & Shopify Integration Platform
+
+> A production system handling live WebSocket streams, real-time admin dashboards, and load-balanced VPS infrastructure.
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        PRODUCTION SYSTEM                            │
+│                                                                     │
+│   Browser / Admin Dashboard                                         │
+│        │  WebSocket (Socket.io)                                     │
+│        ▼                                                            │
+│   ┌──────────┐     ┌──────────────┐     ┌──────────────────────┐  │
+│   │  Nginx   │────▶│  Node.js     │────▶│  MongoDB             │  │
+│   │  Reverse │     │  API Server  │     │  (Analytics Store)   │  │
+│   │  Proxy   │     │  (Dockerized)│     └──────────────────────┘  │
+│   │  + SSL   │     │              │     ┌──────────────────────┐  │
+│   └──────────┘     │  Socket.io   │────▶│  Redis               │  │
+│        │           │  WS Handler  │     │  (Session / Cache)   │  │
+│        │           └──────────────┘     └──────────────────────┘  │
+│        │                  │                                         │
+│        │           ┌──────────────┐                                 │
+│        │           │  Shopify     │                                 │
+│        │           │  Marketplace │                                 │
+│        │           │  Integration │                                 │
+│        │           └──────────────┘                                 │
+│        │                                                            │
+│   GitHub Actions CI/CD                                              │
+│   push → test → build image → SSH deploy → health check → live     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Key Engineering Decisions:**
+- 🔄 **Blue-Green deployments** via Nginx upstream switching — zero user impact during releases
+- 📦 **Immutable Docker images** — tagged by git SHA, pushed to registry, pulled on VPS
+- ⚡ **WebSocket streams** — live analytics events pushed server → client at sub-100ms latency
+- 🛡️ **Health-check driven releases** — new container must pass `/health` before traffic switches
+
+---
+
+## 🏗️ Production Architecture
+
+I don't just deploy apps — I design **resilient, scalable production systems**.
+
+### ⚡ CI/CD Deployment Flow
+
+```mermaid
+graph TD
+    A[🔀 Push to main] --> B[🧪 CI: Tests + Lint]
+    B --> C{Tests Pass?}
+    C -- ❌ Fail --> Z[🚨 Notify & Block]
+    C -- ✅ Pass --> D[🐳 Build Docker Image]
+    D --> E[📦 Push to Registry — tagged by SHA]
+    E --> F[🔐 SSH into VPS]
+    F --> G[⬇️ Pull New Image]
+    G --> H[🚀 Spin Up New Container — port 3001]
+    H --> I[❤️ Health Check /health]
+    I -- ✅ Healthy --> J[🔀 Switch Nginx Upstream → 3001]
+    J --> K[🛑 Stop Old Container — port 3000]
+    K --> L[✅ Deploy Complete — Zero Downtime]
+    I -- ❌ Unhealthy --> M[🔁 Instant Rollback — keep port 3000 live]
+```
+
+### 🌐 System Architecture — Multi-Service Backend
+
+```mermaid
+graph LR
+    Client["🌐 Client<br/>(Browser / Mobile)"]
+    CF["☁️ Cloudflare<br/>DNS + DDoS Protection"]
+    Nginx["🔀 Nginx<br/>Reverse Proxy + SSL"]
+    API["⚙️ Node.js API<br/>(Dockerized)"]
+    WS["⚡ Socket.io<br/>Real-Time Layer"]
+    Worker["🌍 Cloudflare Worker<br/>Edge Functions"]
+    DB["🗄️ MongoDB"]
+    Cache["⚡ Redis Cache"]
+    S3["☁️ S3 / Storage"]
+
+    Client --> CF
+    CF --> Nginx
+    Nginx --> API
+    Nginx --> WS
+    Client --> Worker
+    API --> DB
+    API --> Cache
+    API --> S3
+```
+
+### 🔁 Blue-Green Deployment Strategy
+
+```
+Production VPS
+├── Nginx (port 80/443)
+│     └── upstream: points to ACTIVE container
+│
+├── 🟢 Container GREEN  (port 3000) ← ACTIVE / receives traffic
+└── 🔵 Container BLUE   (port 3001) ← STANDBY / warming up
+
+Deploy steps:
+  1. Start BLUE on 3001 with new image
+  2. Health check BLUE at /health
+  3. Nginx upstream → 3001  (atomic swap)
+  4. Stop GREEN
+  5. GREEN becomes next STANDBY
+```
+
+---
+
+## 🧠 CI/CD Philosophy
+
+My approach to CI/CD is simple:
+
+- ✅ Every commit should be **deployable**
+- ✅ Deployments should be **automated, repeatable, and reversible**
+- ✅ Infrastructure should be **version-controlled**
+- ✅ Systems should **fail gracefully, not catastrophically**
+
+### 🔁 Pipeline Principles
+
+- Test before build
+- Build once, deploy everywhere
+- Immutable Docker images
+- Health-check driven releases
+- Instant rollback capability
+
+### ⚙️ Tools I Use
+
+- GitHub Actions for CI/CD automation
+- Docker for consistent environments
+- Nginx for traffic control and SSL termination
+- VPS / Cloud for flexible, cost-effective deployments
+
+> *"Good developers write code. Great developers ship reliably."*
 
 ---
 
@@ -95,7 +248,7 @@ I'm a **Full-Stack Developer** who doesn't just build applications — I craft *
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🚀 DevOps, Cloud & Edge
+#### 🚀 DevOps, Cloud & Production Systems
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -110,6 +263,19 @@ I'm a **Full-Stack Developer** who doesn't just build applications — I craft *
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Ubuntu VPS](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![SSL](https://img.shields.io/badge/SSL%2FTLS-339933?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+- 🐳 **Docker-first Architecture** — containerized apps with multi-stage builds
+- 🔄 **CI/CD Pipelines** via GitHub Actions — test → build → push → deploy
+- ⚡ **Zero Downtime Deployments** — Blue-Green strategy with traffic switching
+- 🌐 **Nginx Reverse Proxy** — load balancing, SSL termination, routing
+- 🔐 **SSL Automation** — Let's Encrypt with auto-renewal
+- ☸️ **Kubernetes (Learning & Scaling)** — orchestration-ready architecture
+- 🧠 **Deployment Strategy Design** — rollback systems, health checks, versioning
+- 🌍 **Multi-Environment Deployments** — staging, production, preview
+- ⚡ **Edge Deployments** — Cloudflare Workers, low-latency APIs
+- 📊 **Monitoring & Logging** — PM2, CloudWatch, runtime observability
+
+> I build systems that **don't just deploy — they recover, scale, and evolve.**
 
 #### 🧰 Tools, Integrations & Platforms
 
