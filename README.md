@@ -141,37 +141,37 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 - **Flowpouch** • *Feb - Feb 2026*  
   Backned Development • cloudflare worker, Hono js
 
-- **icreate-media.com** • *Jan - Feb 2026*  
+- **iCreate Media** • *Jan - Feb 2026*  
   Frontend Development • React, GSAP, Tailwind
 
 - **Fertility Minds (Mobile App)** • *Oct 2025 - Jan 2026*  
   Full Stack + Mobile Development • React Native, Node.js, MongoDB, Custom CMS
 
-- **cc.alibaba.com** • *Nov 2025 - Feb 2026*  
+- **Trade Assurance** • *Nov 2025 - Feb 2026*  
   Full Stack + CMS Development • Next.js, Express, MongoDB
 
-- **lymdigital.com** • *Dec 2025 - Jan 2026*  
+- **LYM Digital** • *Dec 2025 - Jan 2026*  
   Frontend Development • React, Framer Motion
 
 - **Al Khaleej Takaful Insurance (AKTI)** • *Sep 2025 - Jan 2026*  
   Frontend Development • Next.js, Tailwind, GSAP
 
-- **vetrinamia.com** • *Aug - Oct 2025*  
+- **Vetrinamia** • *Aug - Oct 2025*  
   Full Stack + CMS Development • MERN Stack, Custom CMS
 
-- **supertinymarketing.com** • *Oct - Nov 2025*  
+- **Supertiny Marketing Agency** • *Oct - Nov 2025*  
   Frontend Development • React, GSAP
 
-- **connectyou.global** • *Jun 2025 - May 2026*  
+- **Connect you** • *Jun 2025 - May 2026*  
   Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
 
-- **transwego** • *Nov 2025 - Jun 2025*  
+- **Trans WeGo** • *Nov 2025 - Jun 2025*  
   Full Stack + CMS Development • Next.js, Node.js, MongoDB
 
-- **yacht-buddy.com** • *Aug - Sep 2025*  
+- **Yacht Buddy** • *Aug - Sep 2025*  
   Frontend Development • React, Advanced Animations
 
-- **naveesinfotech.info** • *Jul - Aug 2025*  
+- **[![NaveesInfoTeech]](https://naveesinfotech.info)** • *Jul - Aug 2025*  
   Frontend Development • React, Tailwind
 
 #### 🌟 Specialized Projects
