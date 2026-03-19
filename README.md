@@ -132,6 +132,9 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 
 #### 📋 Recent Client Work
 
+- **Bornvia** • *Mar - Mar 2026*  
+   GSAP Scroll animation integration using custom components functionality on Framer website builder.
+
 - **TSTN** • *Feb - Feb 2026*  
   Rewards Landing page Development • GSAP 
 
