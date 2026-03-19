@@ -132,16 +132,16 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 
 #### 📋 Recent Client Work
 
-- **Bornvia** • *Mar - Mar 2026*  
+- **[Bornvia](https://www.bornvia.com)** • *Mar - Mar 2026*  
    GSAP Scroll animation integration using custom components functionality on Framer website builder.
 
 - **TSTN** • *Feb - Feb 2026*  
   Rewards Landing page Development • GSAP 
 
-- **Flowpouch** • *Feb - Feb 2026*  
+- **[Flowpouch](https://flowpouch.com)** • *Feb - Feb 2026*  
   Backned Development • cloudflare worker, Hono js
 
-- **iCreate Media** • *Jan - Feb 2026*  
+- **[iCreate Media](https://icmnext.vercel.app)** • *Jan - Feb 2026*  
   Frontend Development • React, GSAP, Tailwind
 
 - **Fertility Minds (Mobile App)** • *Oct 2025 - Jan 2026*  
@@ -150,22 +150,22 @@ I'm a **Full-Stack Developer** who doesn't just build applications—I craft **i
 - **Trade Assurance** • *Nov 2025 - Feb 2026*  
   Full Stack + CMS Development • Next.js, Express, MongoDB
 
-- **LYM Digital** • *Dec 2025 - Jan 2026*  
+- **[LYM Digital](https://lymdigital.com)** • *Dec 2025 - Jan 2026*  
   Frontend Development • React, Framer Motion
 
-- **Al Khaleej Takaful Insurance (AKTI)** • *Sep 2025 - Jan 2026*  
+- **[Al Khaleej Takaful Insurance (AKTI)](https://www.alkhaleej.com)** • *Sep 2025 - Jan 2026*  
   Frontend Development • Next.js, Tailwind, GSAP
 
-- **Vetrinamia** • *Aug - Oct 2025*  
+- **[Vetrinamia](https://vetrinamia.com)** • *Aug - Oct 2025*  
   Full Stack + CMS Development • MERN Stack, Custom CMS
 
 - **Supertiny Marketing Agency** • *Oct - Nov 2025*  
   Frontend Development • React, GSAP
 
-- **Connect you** • *Jun 2025 - May 2026*  
+- **[Connect You](https://connectyou.global)** • *Jun 2025 - May 2026*  
   Full Stack + CMS Development • MERN, Socket.IO, Real-time Features
 
-- **[Trans WeGo](https://transwego.ch/)** • *Nov 2025 - Jun 2025*  
+- **[Trans WeGo](https://www.transwego.ch)** • *Nov 2025 - Jun 2025*  
   Full Stack + CMS Development • Next.js, Node.js, MongoDB
 
 - **Yacht Buddy** • *Aug - Sep 2025*  
