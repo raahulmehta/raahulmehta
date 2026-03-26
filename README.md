@@ -173,7 +173,7 @@ Every project I ship has automated deployments. No manual uploads, no SSH-and-pr
 
 ---
 
-## 🎯 Client Work
+## 🎯 Recent Work
 
 > 15 contracts · newest first
 
