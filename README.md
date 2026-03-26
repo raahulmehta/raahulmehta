@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:2d0000&height=160&section=header&text=Rahul+Mehta&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full+Stack+Developer+%C2%B7+MERN+%C2%B7+Animation+%C2%B7+Deployment&descSize=14&descColor=ff6b6b&descAlignY=65" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+MERN+Stack;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Socket.io+%C2%B7+RealAI biotTime+Systems+%C2%B7+WebSockets;Docker+%C2%B7+GitHub+Actions+%C2%B7+VPS+%C2%B7+Cloudflare+Workers;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+MERN+Stack;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Socket.io+%C2%B7+RealAI+biotTime+Systems+%C2%B7+WebSockets;Docker+%C2%B7+GitHub+Actions+%C2%B7+VPS+%C2%B7+Cloudflare+Workers;WhatsApp+Business+Bots+%C2%B7+Meta+Cloud+API" />
 
 &nbsp;
 
