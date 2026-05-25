@@ -179,22 +179,24 @@ Every project I ship has automated deployments. No manual uploads, no SSH-and-pr
 
 | # | Client | What I built | Stack | Period |
 |---|--------|-------------|-------|--------|
-| 01 | [**LGXNDS**](https://lgxnds.com/) | Cloud flare worker for API proxy integrated with seal subscriptions | `Hono.JS` `Cloud flare Workers` | March 2026 |
-| 02 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
-| 03 | **TSTN** | Rewards & loyalty system, landing page, dashboard UI with animations | `GSAP` | Feb 2026 |
-| 04 | [**Flowpouch**](https://flowpouch.com) | Cloudflare Worker integrating ProsperStack with FlowPouch subscription workflow — improving retention pipelines | `Cloudflare Workers` `Hono` `Wrangler` | Jan–Feb 2026 |
-| 05 | **WhatsApp Chat Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
-| 06 | [**iCreate Media**](https://icmnext.vercel.app) | Agency website — GSAP scroll-triggered animations, Three.js 3D scenes, SEO-optimised, fully responsive | `Next.js` `GSAP` `Three.js` `Tailwind` | Dec 2025–Jan 2026 |
-| 07 | [**LYM Digital**](https://lymdigital.com) | High-performance agency site — GSAP scroll animations, Vercel serverless contact forms, Next.js SEO | `Next.js` `GSAP` `Framer Motion` | Dec 2025–Jan 2026 |
-| 08 | **Fertility Minds** `📱` | Cross-platform app — Apple/Google auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, custom CMS/CRM + React admin panel | `React Native` `Node.js` `MongoDB` `Socket.io` `Stripe` | Oct 2025–Feb 2026 |
-| 09 | [**Al Khaleej Takaful (AKTI)**](https://www.alkhaleej.com) | Bilingual EN/AR insurance platform — RTL/LTR, complex state-persistent multi-step form, React Hook Form validation, smooth animations | `Vite` `React` `Tailwind` `GSAP` `i18n` | Aug–Dec 2025 |
-| 10 | **Trade Assurance** | Global trade platform — secure auth, order management, multi-step product/service listing, real-time notifications, admin dashboards | `Next.js` `Express` `MongoDB` `Tailwind` | Jul 2025–Feb 2026 |
-| 11 | [**Vetrinamia**](https://vetrinamia.com) | Real-time analytics engine — WebSocket streams, live admin dashboard, Shopify marketplace integration, load-balanced VPS with NGINX | `MERN` `WebSockets` `NGINX` `Shopify` | Jul–Aug 2025 |
-| 12 | [**Trans WeGo**](https://www.transwego.ch) | Switzerland–Germany logistics platform — shipment bidding, cost-sharing algorithm, Google Maps geo-aggregation, real-time push + group chat | `Next.js` `Node.js` `MongoDB` `Socket.io` `Google Maps` | Nov 2024–Jun 2025 |
-| 13 | [**Connect You**](https://connectyou.global) | Global coaching platform — Stripe, real-time chat, Google Maps + Calendar, HubSpot, timezone-based slot booking, payout & refund workflows, VPS deploy | `MERN` `Next.js` `Socket.io` `Stripe` `HubSpot` | Aug 2024–Sep 2025 |
-| 14 | **Yacht Buddy** | Frontend with advanced scroll animations and interactions | `React` `GSAP` | Sep 2024 |
-| 15 | **Supertiny Marketing Agency** | Dev agency portfolio — GSAP animations, VPS deploy, SEO optimised | `React` `Vite` `Tailwind` `GSAP` | Sep 2024 |
-| 16 | [**NaveesInfoTeech**](https://naveesinfotech.com/) | Marketing agency portfolio — GSAP animations, VPS deploy, lead-gen optimised | `React` `Vite` `Tailwind` `GSAP` | Aug 2024 |
+| 01 | [**Slack Daily Task Analytics system**] | Built a daily reports analytics system, using slack app apis and webooks, Super fast cloud functions, admin dashboard, serverless architecture, free cloud storage setup | `Hono.JS` `Slack API` `Cloud flare Workers` | May  2026 |
+| 02 | [**Legacy Life Counseling**](https://legacylifecounseling.vercel.app/) | Premium portfolio type website for Canada based client with Next.JS, Better SEO compatibility clean and professional theme, subtle animations  | `Next.JS` | May 2026 |
+| 03 | [**LGXNDS**](https://lgxnds.com/) | Cloud flare worker for API proxy integrated with seal subscriptions | `Hono.JS` `Cloud flare Workers` | March 2026 |
+| 04 | [**Bornvia**](https://www.bornvia.com) | GSAP scroll-driven animations integrated into Framer via custom code components | `Framer` `GSAP` `ScrollTrigger` | Feb 2026 |
+| 05 | **TSTN** | Rewards & loyalty system, landing page, dashboard UI with animations | `GSAP` | Feb 2026 |
+| 06 | [**Flowpouch**](https://flowpouch.com) | Cloudflare Worker integrating ProsperStack with FlowPouch subscription workflow — improving retention pipelines | `Cloudflare Workers` `Hono` `Wrangler` | Jan–Feb 2026 |
+| 07 | **WhatsApp Chat Bot** | Webhook-based WhatsApp Business bot — Meta Cloud API, edge-deployed, handles personal assistant tasks and business queries via AI workflow pipelines | `Meta Cloud API` `Cloudflare Workers` `Hono` `Wrangler` | Feb 2026 |
+| 08 | [**iCreate Media**](https://icmnext.vercel.app) | Agency website — GSAP scroll-triggered animations, Three.js 3D scenes, SEO-optimised, fully responsive | `Next.js` `GSAP` `Three.js` `Tailwind` | Dec 2025–Jan 2026 |
+| 09 | [**LYM Digital**](https://lymdigital.com) | High-performance agency site — GSAP scroll animations, Vercel serverless contact forms, Next.js SEO | `Next.js` `GSAP` `Framer Motion` | Dec 2025–Jan 2026 |
+| 10 | **Fertility Minds** `📱` | Cross-platform app — Apple/Google auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, custom CMS/CRM + React admin panel | `React Native` `Node.js` `MongoDB` `Socket.io` `Stripe` | Oct 2025–Feb 2026 |
+| 11 | [**Al Khaleej Takaful (AKTI)**](https://www.alkhaleej.com) | Bilingual EN/AR insurance platform — RTL/LTR, complex state-persistent multi-step form, React Hook Form validation, smooth animations | `Vite` `React` `Tailwind` `GSAP` `i18n` | Aug–Dec 2025 |
+| 12 | **Trade Assurance** | Global trade platform — secure auth, order management, multi-step product/service listing, real-time notifications, admin dashboards | `Next.js` `Express` `MongoDB` `Tailwind` | Jul 2025–Feb 2026 |
+| 13 | [**Vetrinamia**](https://vetrinamia.com) | Real-time analytics engine — WebSocket streams, live admin dashboard, Shopify marketplace integration, load-balanced VPS with NGINX | `MERN` `WebSockets` `NGINX` `Shopify` | Jul–Aug 2025 |
+| 14 | [**Trans WeGo**](https://www.transwego.ch) | Switzerland–Germany logistics platform — shipment bidding, cost-sharing algorithm, Google Maps geo-aggregation, real-time push + group chat | `Next.js` `Node.js` `MongoDB` `Socket.io` `Google Maps` | Nov 2024–Jun 2025 |
+| 15 | [**Connect You**](https://connectyou.global) | Global coaching platform — Stripe, real-time chat, Google Maps + Calendar, HubSpot, timezone-based slot booking, payout & refund workflows, VPS deploy | `MERN` `Next.js` `Socket.io` `Stripe` `HubSpot` | Aug 2024–Sep 2025 |
+| 16 | **Yacht Buddy** | Frontend with advanced scroll animations and interactions | `React` `GSAP` | Sep 2024 |
+| 17 | **Supertiny Marketing Agency** | Dev agency portfolio — GSAP animations, VPS deploy, SEO optimised | `React` `Vite` `Tailwind` `GSAP` | Sep 2024 |
+| 18 | [**NaveesInfoTeech**](https://naveesinfotech.com/) | Marketing agency portfolio — GSAP animations, VPS deploy, lead-gen optimised | `React` `Vite` `Tailwind` `GSAP` | Aug 2024 |
 
 ---
 
