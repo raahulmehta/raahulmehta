@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/raahulmehta.online-0d0d0d?style=flat-square&logo=firefox&logoColor=ff6b6b)](https://raahulmehta.online)
 [![](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff6b6b)](https://www.linkedin.com/in/rahul-mehta-811003320)
 [![](https://img.shields.io/badge/Upwork-0d0d0d?style=flat-square&logo=upwork&logoColor=ff6b6b)](https://www.upwork.com/freelancers/raahulmehta)
-[![](https://img.shields.io/badge/raahulmehta%40icloud.com-0d0d0d?style=flat-square&logo=apple&logoColor=ff6b6b)](mailto:raahulmehta@icloud.com)
+[![]()](mailto:raahulmehta@icloud.com)
 [![](https://img.shields.io/badge/@raahulmehta__-0d0d0d?style=flat-square&logo=instagram&logoColor=ff6b6b)](https://www.instagram.com/raahulmehta_)
 [![](https://img.shields.io/badge/@whoisrahulmehta-0d0d0d?style=flat-square&logo=x&logoColor=ff6b6b)](https://x.com/whoisrahulmehta)
 [![](https://img.shields.io/badge/Snapchat-0d0d0d?style=flat-square&logo=snapchat&logoColor=ff6b6b)](https://www.snapchat.com/add/whoisrahulmehta)
