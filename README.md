@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:2d0000&height=160&section=header&text=Rahul+Mehta&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full+Stack+Engineer+%C2%B7+DevOps+%C2%B7+Cloud+%C2%B7+Animation&descSize=14&descColor=ff6b6b&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:2d0000&height=160&section=header&text=Rahul+Mehta&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full+Stack+Engineer+%7C+Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Cloud&descSize=14&descColor=ff6b6b&descAlignY=65" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+React+Native+%2F+TypeScript;Node.js+%C2%B7+NestJS+%C2%B7+Fastify+%C2%B7+Hono+%C2%B7+Express;GSAP+ScrollTrigger+%C2%B7+Three.js+WebGL+%C2%B7+Framer+Motion;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Cloudflare+Workers;Electron.js+Desktop+Apps+%C2%B7+CI%2FCD+%C2%B7+VPS+to+Edge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=720&lines=Next.js+%2F+React+%2F+React+Native+%2F+Electron.js;Node.js+%C2%B7+NestJS+%C2%B7+Fastify+%C2%B7+Hono+%C2%B7+Express;GSAP+%C2%B7+Three.js+%C2%B7+Framer+Motion+%C2%B7+ScrollTrigger;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Cloudflare+Workers;Ships+to+App+Store+%C2%B7+Play+Store+%C2%B7+Production+VPS" />
 
 &nbsp;
 
@@ -27,29 +27,36 @@
 
 ## 💫 About Me
 
-I'm a Full-Stack Engineer who builds and ships complete products — end to end, from architecture to production.
+I'm a Full-Stack Engineer who takes products from a blank repo to a live, monitored production system — and I own every layer in between: architecture, frontend, backend, infrastructure, and deployment.
 
-I picked up HTML, CSS, and JavaScript back in 2019, but it was about 2.5 years ago that I got serious: I went deep on JavaScript fundamentals, learned React properly, and after roughly five months of that, started shipping real React projects. Node.js followed soon after. In the two years since, that's grown into the full MERN stack, TypeScript, React Native for mobile, and Electron.js for desktop — alongside a parallel track into DevOps and cloud: Docker, Kubernetes, CI/CD, AWS, edge and serverless functions (Cloudflare Workers, Lambda), and VPS provisioning from scratch. I've since shipped apps to the Apple App Store and Google Play, and containerized desktop apps running on self-managed Kubernetes clusters.
+I started learning HTML, CSS, and JavaScript in 2019. About 2.5 years ago I went all-in — rebuilt my JavaScript fundamentals properly, learned React in depth, and within five months was shipping real production React work. Node.js followed shortly after. Over the two years since, that foundation has grown into a full-stack, full-lifecycle practice: Next.js, NestJS, and Fastify on the backend; React Native and Electron.js for apps that ship beyond the browser; and a DevOps track covering Docker, Kubernetes, CI/CD, AWS, and edge/serverless (Cloudflare Workers, Lambda). Every skill here was built by shipping — I've taken mobile apps live on the Apple App Store and Google Play, and cross-platform desktop apps to production on self-managed Kubernetes clusters, all starting from zero.
 
-I own the entire lifecycle: system architecture, frontend and backend implementation, database design, containerization, CI/CD pipelines, and the cloud infrastructure everything runs on. On the frontend I build interfaces that feel alive using GSAP, Three.js, and Framer Motion. On the backend I design APIs and services with Node.js, NestJS, Fastify, and Hono. And I don't consider a project done until it's deployed, monitored, and stable in production.
+That "start from zero, own it end-to-end" approach is how I work with every client: I don't just write the feature — I design the architecture, build the frontend and backend, wire up the database, containerize it, set up CI/CD, and put it on infrastructure that stays up. On the frontend, that includes interfaces built with GSAP, Three.js, and Framer Motion for the kind of motion and interactivity that makes a product feel premium. On the backend, APIs and services built with Node.js, NestJS, Fastify, and Hono designed for reliability at scale.
+
+#### Scope of Work
+
+| Domain | What that means for you |
+|---|---|
+| 🌐 **Web** | Next.js / React front ends, NestJS / Fastify / Node.js back ends, databases, admin panels — designed, built, and deployed |
+| 📱 **Mobile** | React Native apps taken through to a live App Store and Google Play listing |
+| 🖥️ **Desktop** | Electron.js applications, packaged and shipped to production, not just prototypes |
+| ☁️ **Cloud & DevOps** | Docker, Kubernetes, AWS, Cloudflare edge, CI/CD — the infrastructure the product runs on, built and maintained |
 
 #### What I Build:
-- 🎨 **Animated, interactive frontends** — GSAP, Three.js, Framer Motion, ScrollTrigger
-- 🏗️ **Full-stack apps** — MERN, Next.js, NestJS, Fastify, Hono — auth, APIs, databases, admin panels
-- ⚡ **Real-time features** — Socket.IO chat, live dashboards, WebSocket streams, push notifications
-- 📱 **Cross-platform mobile apps** — React Native (iOS + Android), App Store & Play Store releases
-- 🖥️ **Desktop apps** — Electron.js, packaged and deployed like any other production service
-- 💳 **Payment integrations** — Stripe, PayPal, Razorpay
+- 🏗️ **Full-stack web applications** — Next.js, NestJS, Fastify, Node.js, MongoDB — auth, APIs, admin panels, from schema to shipped UI
+- 📱 **Mobile apps, store-ready** — React Native (iOS + Android), taken through App Store and Google Play release end-to-end
+- 🖥️ **Desktop applications** — Electron.js, built and deployed to production like any other service
+- 🎨 **Animated, high-craft frontends** — GSAP, Three.js, Framer Motion, ScrollTrigger
+- ⚡ **Real-time systems** — Socket.IO chat, live dashboards, WebSocket streams, push notifications
+- 💳 **Payment infrastructure** — Stripe, PayPal, Razorpay, subscription and webhook handling
 - 🚀 **Production infrastructure** — Docker, Kubernetes (K3s), AWS, Cloudflare Workers, VPS, GitHub Actions CI/CD
 
 #### Currently:
-- 🔭 Working on **enterprise marketplace apps** and **real-time analytics platforms**
-- 🌱 Deepening **Kubernetes** and **edge-first architecture** work
-- 🎯 Speciality: animations that make people say *"wait, how did they do that?"*
-- ⚡ Portfolio: [raahulmehta.online](https://raahulmehta.online)
-- 📫 **raahulmehta@icloud.com**
+- 🔭 Working on enterprise marketplace applications and real-time analytics platforms
+- 🌱 Deepening Kubernetes and edge-first architecture across client projects
+- 🌐 Web: [raahulmehta.online](https://raahulmehta.online) &nbsp;·&nbsp; 📫 **raahulmehta@icloud.com**
 
-> *"From concept to deployment — I build things that ship, scale, and feel alive."*
+> *"From zero to production — architecture, build, and deployment, owned end-to-end."*
 
 ---
 
