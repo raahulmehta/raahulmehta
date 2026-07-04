@@ -35,12 +35,19 @@ That "start from zero, own it end-to-end" approach is how I work with every clie
 
 #### Scope of Work
 
-| Domain | What that means for you |
-|---|---|
-| 🌐 **Web** | Next.js / React front ends, NestJS / Fastify / Node.js back ends, databases, admin panels — designed, built, and deployed |
-| 📱 **Mobile** | React Native apps taken through to a live App Store and Google Play listing |
-| 🖥️ **Desktop** | Electron.js applications, packaged and shipped to production, not just prototypes |
-| ☁️ **Cloud & DevOps** | Docker, Kubernetes, AWS, Cloudflare edge, CI/CD — the infrastructure the product runs on, built and maintained |
+I work across the full stack of how a modern product actually gets built and run — not just the application itself, but the infrastructure it lives on.
+
+**🌐 Web Applications**
+Full-stack builds on Next.js / React on the front end and NestJS / Fastify / Node.js on the back end — database design, authentication, admin panels, and API architecture included. Delivered production-ready: optimised, SEO-configured, and deployed, not handed off as a local build.
+
+**📱 Mobile Applications**
+React Native apps built for iOS and Android from a single codebase, taken all the way through App Store and Google Play submission and release — not just a working APK.
+
+**🖥️ Desktop Applications**
+Electron.js applications packaged, signed, and shipped to production users — built with the same rigor as a web or mobile release, not a side prototype.
+
+**☁️ Cloud, Edge & Serverless Infrastructure**
+Docker and Kubernetes for containerized services that scale predictably under load. Edge and serverless functions (Cloudflare Workers, AWS Lambda) for the parts of an app that benefit from running physically close to the user: this means sub-50ms response times worldwide and a cost model where you pay per request instead of for an idle server running 24/7 — high performance and lower infrastructure spend at the same time. Everything is wired into GitHub Actions CI/CD, so every deploy is automated, tested, and reversible.
 
 #### What I Build:
 - 🏗️ **Full-stack web applications** — Next.js, NestJS, Fastify, Node.js, MongoDB — auth, APIs, admin panels, from schema to shipped UI
