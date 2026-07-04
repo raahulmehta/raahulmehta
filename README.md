@@ -28,9 +28,17 @@
 
 ## 💫 About Me
 
-I'm a **Full-Stack Developer** who builds complete digital products — from pixel-perfect animated frontends to scalable backends and smooth production deployments.
+Full-Stack Software developer passionate about building complete digital products—from the first line of code to production deployment. I enjoy taking ideas from concept to reality by designing system architecture, building scalable applications, deploying cloud infrastructure, and shipping polished products to the web, the Apple App Store, Google Play Store, and desktop platforms.
 
-**My stack is MERN at the core.** React, Next.js, Node.js, MongoDB — with TypeScript, real-time layers, animations, and mobile when the project calls for it.
+My expertise spans the entire JavaScript ecosystem. On the frontend, I build responsive, performant applications with React, Next.js, TypeScript, and React Native, while creating highly interactive user experiences using GSAP, Framer Motion, Three.js, and modern animation techniques. I enjoy crafting complex interfaces that balance aesthetics, usability, and performance.
+
+On the backend, I design scalable APIs and distributed systems using Node.js, NestJS, Fastify, Express, MongoDB, and SQL databases, with a strong focus on clean architecture, maintainability, and high throughput & performance.
+
+Beyond development, I build and manage cloud-native infrastructure using AWS, Cloudflare, Docker, Kubernetes, serverless and edge computing, CI/CD pipelines, VPS infrastructure, and modern deployment workflows. I'm passionate about designing architectures that improve scalability, reduce infrastructure costs, and deliver low-latency experiences through edge technologies.
+
+Over the past three years, I've built and shipped multiple real-world applications while continuously expanding my expertise across software engineering, cloud infrastructure, and system architecture. What began with learning HTML, CSS, and JavaScript from scratch has evolved into building complete production systems that I own end-to-end—from architecture and development to deployment and ongoing maintenance.
+
+I believe great software is more than writing code—it's about solving meaningful problems, building scalable systems, and delivering exceptional experiences that users love.
 
 #### What I Build:
 - 🎨 **Animated, interactive frontends** — GSAP, Three.js, Framer Motion, ScrollTrigger
