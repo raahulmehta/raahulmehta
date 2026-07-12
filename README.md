@@ -223,7 +223,7 @@ Every project I ship has automated deployments. No manual uploads, no SSH-and-pr
 | 19 | [**NaveesInfoTech**](https://naveesinfotech.com/) | Marketing agency portfolio designed, built, and deployed to a VPS, with GSAP animation tuned for lead generation. | `React` `Vite` `Tailwind` `GSAP` | Aug 2024 |
 <!-- PROJECTS-TABLE:END -->
 
-> Table is generated from `projects-data.json` — see `generate-readme.js` for how to add a new row.
+
 
 ---
 
