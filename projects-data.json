@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 19,
     "client": "Daily Reports Analytics Engine",
     "link": null,
     "description": "Built end-to-end, solo, from architecture to deployment: a Slack-integrated analytics engine that ingests daily reports through the Slack API and webhooks, processes them on serverless Cloudflare Functions, and persists data across a hybrid storage layer (D1 + MongoDB + KV) for fast reads and flexible querying. Includes an admin dashboard on top.",
@@ -8,7 +8,7 @@
     "period": "May 2026"
   },
   {
-    "id": 2,
+    "id": 18,
     "client": "Employee Tracking System",
     "link": null,
     "description": "Cross-platform desktop app built from scratch and shipped to production: Electron.js front end talking to a NestJS backend, deployed on a self-managed K3s Kubernetes cluster on AWS with a full GitHub Actions CI/CD pipeline handling build, test, and rollout.",
@@ -16,7 +16,7 @@
     "period": "2026"
   },
   {
-    "id": 3,
+    "id": 17,
     "client": "Legacy Life Counseling",
     "link": "https://legacylifecounseling.vercel.app/",
     "description": "Premium portfolio-style site for a Canada-based client, built and deployed solo. Sanity CMS wired in so the client can update content themselves, transactional email via Resend, clean SEO-friendly structure and subtle motion throughout.",
@@ -24,7 +24,7 @@
     "period": "May 2026"
   },
   {
-    "id": 4,
+    "id": 16,
     "client": "LGXNDS",
     "link": "https://lgxnds.com/",
     "description": "Edge API proxy built on Cloudflare Workers, integrated with Seal Subscriptions to route and manage subscription-related requests at the edge — designed, built, and deployed from scratch.",
@@ -32,7 +32,7 @@
     "period": "March 2026"
   },
   {
-    "id": 5,
+    "id": 15,
     "client": "Bornvia",
     "link": "https://www.bornvia.com",
     "description": "Scroll-driven storytelling site: hand-built GSAP ScrollTrigger animation sequences wired into Framer via custom code components, taking the design from static mockup to a fully interactive, pinned-scroll experience.",
@@ -40,7 +40,7 @@
     "period": "Feb 2026"
   },
   {
-    "id": 6,
+    "id": 14 ,
     "client": "TSTN",
     "link": null,
     "description": "Rewards and loyalty platform built from the ground up — landing page, dashboard UI, and GSAP-driven micro-interactions layered on top of the core reward-tracking logic.",
@@ -48,7 +48,7 @@
     "period": "Feb 2026"
   },
   {
-    "id": 7,
+    "id": 13,
     "client": "Flowpouch",
     "link": "https://flowpouch.com",
     "description": "Cloudflare Worker built and deployed to bridge ProsperStack into FlowPouch's subscription flow, improving cancellation and retention handling without touching the core app.",
@@ -56,7 +56,7 @@
     "period": "Jan–Feb 2026"
   },
   {
-    "id": 8,
+    "id": 12,
     "client": "WhatsApp Chat Bot",
     "link": null,
     "description": "Webhook-based WhatsApp Business bot built end-to-end on the Meta Cloud API, edge-deployed on Cloudflare Workers, driving an AI pipeline that handles personal-assistant tasks and business queries in real time.",
@@ -64,7 +64,7 @@
     "period": "Feb 2026"
   },
   {
-    "id": 9,
+    "id": 11,
     "client": "iCreate Media",
     "link": "https://icmnext.vercel.app",
     "description": "Agency website designed and built solo, from static design to deployed site: GSAP scroll-triggered animation, Three.js WebGL scenes for the hero, fully responsive and SEO-optimised.",
@@ -80,7 +80,7 @@
     "period": "Dec 2025–Jan 2026"
   },
   {
-    "id": 11,
+    "id": 9,
     "client": "Fertility Minds",
     "link": "https://apps.apple.com/in/app/fertility-minds/id6786222520",
     "description": "Cross-platform mobile app taken from zero to live on both the App Store and Google Play: auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, a custom CMS/CRM with a React admin panel, plus store-listing and release management.",
@@ -88,7 +88,7 @@
     "period": "Oct 2025–Feb 2026"
   },
   {
-    "id": 12,
+    "id": 8,
     "client": "Al Khaleej Takaful (AKTI)",
     "link": "https://www.alkhaleej.com",
     "description": "Bilingual EN/AR insurance platform built solo with full RTL/LTR support, a complex state-persistent multi-step form validated with React Hook Form, and smooth motion throughout — designed, built, and deployed end-to-end.",
@@ -96,7 +96,7 @@
     "period": "Aug–Dec 2025"
   },
   {
-    "id": 13,
+    "id": 7,
     "client": "Trade Assurance",
     "link": null,
     "description": "Global trade platform built from scratch: secure auth, order management, multi-step product/service listing flows, real-time notifications, and admin dashboards — architected, built, and deployed solo.",
@@ -104,7 +104,7 @@
     "period": "Jul 2025–Feb 2026"
   },
   {
-    "id": 14,
+    "id": 6,
     "client": "Vetrinamia",
     "link": "https://vetrinamia.com",
     "description": "Real-time analytics engine shipped end-to-end: WebSocket streams feeding a live admin dashboard, Shopify marketplace integration, deployed on a load-balanced VPS behind NGINX.",
@@ -112,7 +112,7 @@
     "period": "Jul–Aug 2025"
   },
   {
-    "id": 15,
+    "id": 5,
     "client": "Trans WeGo",
     "link": "https://www.transwego.ch",
     "description": "Switzerland–Germany logistics platform built solo, from data model to live deployment: shipment bidding, a cost-sharing algorithm, Google Maps geo-aggregation, and real-time push plus group chat.",
@@ -120,7 +120,7 @@
     "period": "Nov 2024–Jun 2025"
   },
   {
-    "id": 16,
+    "id": 4,
     "client": "Connect You",
     "link": "https://connectyou.global",
     "description": "Global coaching platform taken from scratch to production on a VPS: Stripe payments, real-time chat, Google Maps + Calendar integration, HubSpot sync, timezone-aware slot booking, and payout/refund workflows.",
@@ -128,7 +128,7 @@
     "period": "Aug 2024–Sep 2025"
   },
   {
-    "id": 17,
+    "id": 3,
     "client": "Yacht Buddy",
     "link": null,
     "description": "Frontend build focused on advanced scroll animation and interaction design, from static comps to a fully animated live site.",
@@ -136,7 +136,7 @@
     "period": "Sep 2024"
   },
   {
-    "id": 18,
+    "id": 2,
     "client": "Supertiny Marketing Agency",
     "link": null,
     "description": "Dev agency portfolio built and deployed solo on a VPS, with GSAP animation and SEO tuning baked in from the start.",
@@ -144,7 +144,7 @@
     "period": "Sep 2024"
   },
   {
-    "id": 19,
+    "id": 1,
     "client": "NaveesInfoTech",
     "link": "https://naveesinfotech.com/",
     "description": "Marketing agency portfolio designed, built, and deployed to a VPS, with GSAP animation tuned for lead generation.",
