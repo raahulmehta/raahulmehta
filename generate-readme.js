@@ -1,28 +1,4 @@
 #!/usr/bin/env node
-/**
- * generate-readme.js
- *
- * Rebuilds the "Recent Work" table in README.md from projects-data.json.
- *
- * HOW TO ADD A NEW PROJECT:
- *   1. Open projects-data.json
- *   2. Add a new object to the array, e.g.:
- *      {
- *        "id": 20,
- *        "client": "My New Client",
- *        "link": "https://example.com",   // or null if no public link
- *        "description": "One or two sentences on what you actually built and shipped.",
- *        "stack": ["Next.js", "GSAP"],
- *        "period": "Jul 2026"
- *      }
- *   3. Run:  node generate-readme.js
- *   4. README.md is updated in place. Commit it.
- *
- * The script only touches the region between the markers:
- *   <!-- PROJECTS-TABLE:START -->
- *   <!-- PROJECTS-TABLE:END -->
- * Everything else in README.md is left untouched.
- */
 
 const fs = require("fs");
 const path = require("path");
