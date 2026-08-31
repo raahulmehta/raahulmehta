@@ -1,4 +1,18 @@
-[
+[  {
+"id": 21,
+  "client": "Kitchen Solutions",
+  "link": "https://solutions.kitchen",
+  "description": "Architected and built end-to-end, solo, a multi-tenant SaaS catering platform for schools and corporate tenants, using a decoupled polyglot architecture with MongoDB for platform/authentication data and isolated PostgreSQL databases for tenant transactional data. Includes RBAC, MFA, SSO, custom domains with SSL management, real-time Socket.IO communication, event-driven notifications, payments, multilingual portals, dynamic tenant theming, Redis caching, Dockerized multi-instance deployment, NGINX performance tuning, GitHub Actions CI/CD, Sentry monitoring, AWS RDS/SES integrations, and Next.js multilingual marketing websites.",
+  "stack": ["React", "Next.js", "NestJS", "Fastify", "MongoDB", "PostgreSQL", "Prisma", "Mongoose", "Redis", "Socket.IO", "Docker", "NGINX", "GitHub Actions", "AWS RDS", "AWS SES", "Sentry", "Sanity"],
+  "period": "2026"
+  },  {
+  "id": 20,
+  "client": "Duck Race Asia — Charity Event Platform",
+  "link": "https://duckraceasia.com",
+  "description": "Independently owned the complete product lifecycle from architecture and UI/UX planning to development, infrastructure, deployment, and production optimization. Built the Next.js public website, Fastify backend, and React admin CMS for a complete duck adoption and charity-event workflow, integrating Stripe payments with idempotent order processing, unique order IDs, receipt generation, OTP/email authentication, and Amazon SES transactional emails. Engineered real-time Socket.IO infrastructure for live adoption counts, sold-out indicators, banners, and event updates, alongside interactive SVG duck customization and social sharing with generated metadata. Dockerized and deployed four application instances on a Hostinger VPS with NGINX reverse proxy and performance tuning, optimizing the stack to handle traffic spikes of approximately 50,000+ concurrent users.",
+  "stack": ["Next.js", "Fastify", "React", "MongoDB", "Tailwind CSS", "Stripe", "Socket.IO", "Docker", "NGINX", "AWS SES"],
+  "period": "Jul 2026 – Aug 2026"
+  },
   {
     "id": 19,
     "client": "Daily Reports Analytics Engine",
